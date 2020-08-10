@@ -162,14 +162,14 @@ class ExampleApplication extends Brahmos.Component {
           />
           <p>
             <strong>Demo Repo: </strong>
-            <a href="https://github.com/brahmosjs/brahmos">
-              https://github.com/brahmosjs/brahmos
+            <a href="https://github.com/brahmosjs/sierpinski-triangle">
+              https://github.com/brahmosjs/sierpinski-triangle
             </a>
           </p>
           <p>
             <strong>Brahmos: </strong>
-            <a href="https://github.com/brahmosjs/sierpinski-triangle">
-              https://github.com/brahmosjs/sierpinski-triangle
+            <a href="https://github.com/brahmosjs/brahmos">
+              https://github.com/brahmosjs/brahmos
             </a>
           </p>
         </div>
