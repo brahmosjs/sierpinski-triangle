@@ -5,7 +5,7 @@
     "build": "NODE_ENV=production webpack"
   },
   "dependencies": {
-    "brahmos": "^0.9.0-alpha3"
+    "brahmos": "^0.9.0-alpha4"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
