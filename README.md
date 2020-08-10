@@ -2,7 +2,7 @@
 
 A demo to demonstrate time slicing on Brahmos.
 
-*Demo Link*: [https://brahmosjs.github.io/sierpinski-triangle/](https://brahmosjs.github.io/sierpinski-triangle/)
+**Demo Link**: [https://brahmosjs.github.io/sierpinski-triangle/](https://brahmosjs.github.io/sierpinski-triangle/)
 
 ### Demo forked from
 
